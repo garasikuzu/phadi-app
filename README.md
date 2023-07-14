@@ -6,9 +6,9 @@
 
 ## How To Download
 
-You can download the latest application by clicking on the link below:
+You can get the application installer by clicking on the link below and then download the `.apk` file.
 
-**[Download](https://github.com/garasikuzu/phadi-app/releases/phadi-latest.apk)**
+**[Download](/releases/latest)**
 
 ## How to install
 
