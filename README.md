@@ -8,7 +8,7 @@
 
 You can download the latest application by clicking on the link below:
 
-<a href="/releases/latest/phadi-v1-release.apk" download><b>Download</b></a>
+**[Download](/releases/latest)**
 
 ## How to install
 
