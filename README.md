@@ -1,23 +1,25 @@
 # Phadi
 
-<img src="/images/logo-phadi.png" alt="Phadi logo" width="25%" height="auto">
+<img src="/images/logo-phadi.png" alt="Logo Phadi" width="25%" height="auto">
 
-Phadi merupakan aplikasi pengklasifikasi hama padi dengan memanfaatkan algoritma CNN Deep Learning
+*Phadi is a rice pest classifier application using the CNN Deep Learning algorithm*
 
-Anda dapat mengunduh aplikasi terbaru dengan mengklik tautan di bawah ini:
+## How To Download
 
-- [Download](https://github.com/garasikuzu/phadi-app/releases/phadi-latest.apk)
+You can download the latest application by clicking on the link below:
 
-## Cara Menginstal
+**[Download](https://github.com/garasikuzu/phadi-app/releases/phadi-latest.apk)**
 
-Berikut adalah langkah-langkah untuk menginstal aplikasi ini:
+## How to install
 
-1. Unduh file `.apk` dari tautan di atas.
-2. Pastikan opsi "Sumber Tidak Dikenal" di perangkat Android Anda diaktifkan. Anda dapat mengaktifkannya melalui Pengaturan > Keamanan.
-3. Buka file `.apk` yang telah diunduh.
-4. Ikuti petunjuk pada layar untuk menyelesaikan proses instalasi.
-5. Setelah selesai, aplikasi akan terinstal di perangkat Anda.
+Here are the steps to install this application:
 
-## Laporan Masalah
+1. Download the `.apk` file from the link above.
+2. Make sure the "Unknown Sources" option on your Android device is enabled. You can enable it via Settings > Security.
+3. Open the downloaded `.apk` file.
+4. Follow the on-screen instructions to complete the installation process.
+5. Once done, the app will be installed on your device.
 
-Jika Anda menemui masalah saat menggunakan aplikasi ini, silakan buat tiket (issue) di halaman [Issues](https://github.com/garasikuzu/phadi-app/issues) repositori kami.
+## Problem Report
+
+If you encounter any problems using the app, please create a (problem) ticket on our repository's [Issues](https://github.com/garasikuzu/phadi-app/issues) page.
