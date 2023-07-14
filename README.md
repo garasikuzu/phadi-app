@@ -6,7 +6,7 @@
 
 ## How To Download
 
-You can download the latest application by clicking on the link below:
+*You can download the latest application by clicking on the link below and then download the `.apk` file*
 
 **[Download](/releases/latest)**
 
