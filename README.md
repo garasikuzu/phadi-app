@@ -20,6 +20,9 @@ Here are the steps to install this application:
 4. Follow the on-screen instructions to complete the installation process.
 5. Once done, the app will be installed on your device.
 
+## Where is the model
+If you are interested with its deep learning models. You can access it via [model source](https://github.com/kartakusuma/pests-classification-model-cnn-deep-learning)
+
 ## Problem Report
 
 If you encounter any problems using the app, please create a (problem) ticket on our repository's [Issues](https://github.com/garasikuzu/phadi-app/issues) page.
